@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elhakimdev
-- 👀 I’m interested in Laravel PHP Framework development Also Interest in use Javascript for develop all application services
-- 🌱 I’m currently learning in deep RestFull Api, Angular 11 Ui Design,  Laravel,  React,  Vue Js. 
+- 👀 I’m interested in Laravel, NuxtJs, Typescript, ReactJs, NextJs, NodeJs.
+- 🌱 I’m currently learning in deep to a data engineering, machine learning, data structre,
 - 💞️ I’m looking to collaborate on your project. 
